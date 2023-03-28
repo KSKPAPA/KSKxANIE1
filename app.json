@@ -1,19 +1,9 @@
 {
-   "name": "KSK Robot",
-   "description": "Telegram Group Management Bot.",
-   "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
-   
-     
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
-   "stack": "heroku-22",
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
+   "name": "Telegram",
+    "description": "an awesome music+ management source code.",
+    "keywords": ["music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
+    "repository": "https://github.com/KSKPAPA/KSKxANIE",
+  "stack": "container",
 
    "env": {
       "ALLOW_EXCL": {
