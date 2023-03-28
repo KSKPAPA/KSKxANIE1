@@ -1,8 +1,20 @@
 {
+   "name": "KSK Robot",
+      "description": "Telegram Group Management Bot.",
+      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "keywords": [
+         "telegram",
+         "modular",
+         "group",
+         "manager",
+         "Fallen"
+      ],   
+   "repository": "https://github.com/KSKPAPA/KSKxANIE/",
+   "stack": "heroku-22",
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "12"
          },
          "plan": "heroku-postgresql"
       }
@@ -109,13 +121,4 @@
          "value": "988452336"
       }
    },
-   "keywords": [
-      "telegram",
-      "group",
-      "manager",
-      "bot"
-   ],
-   "logo": "https://avatarfiles.alphacoders.com/207/207588.jpg",
-   "name": "Anie RoBot",
-   "repository": "https://github.com/Avishekbhattacharjee/Anie-Robot/"
 }
